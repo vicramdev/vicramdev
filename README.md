@@ -6,7 +6,7 @@
 ---
 
 - 😎 I'm constantly learning and exploring new technologies to improve my skills.
-- 🤗 Ask me about.
+- 🤗 Ask me about anything.
 - 😁 I’m diving deeper into Machine Learning.
 <div align="center"> 
    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2c2bmt4MzI5eW9kemdpbHY5MXh1cWx0d3V6bDd4b2g0dGs3emJjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IhO6ksgdk31JxbbFLA/giphy.gif" width="280"> 
